@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carllatosa
 - 👀 I’m interested to Networking, Database Management, and Web Development
 - 🌱 I’m currently learning programming languages such as Java/C++/C#/Php
-- ⚡ Fun fact: I am a student who loves to play Web3 games 
+- ⚡ Fun fact: I love to play Web3 games 
 
 <!---
 Carllatosa/Carllatosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
